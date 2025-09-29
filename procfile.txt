@@ -1,1 +1,1 @@
-worker: python Boot.py
+web: python Boot.py
